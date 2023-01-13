@@ -1,0 +1,7 @@
+int a, b, i;
+read a;
+for(i=a; 2*a > i ; i=i+1)
+{
+ b=a*i;
+  write b; 
+};
